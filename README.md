@@ -1,5 +1,4 @@
 # Week-1-project
-## Green skill and AI - Edunet Foundation Internship Project for Week 1
 # EduNet Green Skills & AI - Renewable Energy Project
 
 This project is part of the EduNet Green Skills & AI initiative.  
