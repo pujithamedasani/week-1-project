@@ -4,13 +4,13 @@
 This project is part of the EduNet Green Skills & AI initiative.  
 It uses renewable energy datasets from Kaggle to analyze, clean, and generate insights about global renewable energy adoption.
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 edunet-green-skills-ai/
 │ renewable_energy_clean.csv   # cleaned dataset (sample included)
 │ renewable_energy_ai.ipynb    # Jupyter notebook
 │ renewable_energy_ai.py       # Python script version
-│── README.md
+│ README.md
 ```
 
 ## 🚀 How to Use
@@ -60,6 +60,6 @@ pip install -r requirements.txt
 ```
 
 ## Credits
-- Dataset: [Kaggle - Renewable Energy](https://www.kaggle.com/datasets/sudalairajkumar/renewable-energy)
+- Dataset: Kaggle - Renewable Energy
 - Developed as part of EduNet Green Skills & AI project
 
