@@ -1,6 +1,6 @@
-"""Renewable Energy & AI - Green Skills Project
-Loads, cleans, and processes renewable energy data from Kaggle for EduNet Green Skills project.
-"""
+#Renewable Energy & AI - Green Skills Project
+#Loads, cleans, and processes renewable energy data from Kaggle for EduNet Green Skills project.
+
 
 import pandas as pd
 import numpy as np
@@ -9,8 +9,8 @@ import seaborn as sns
 from pathlib import Path
 from sklearn.preprocessing import MinMaxScaler
 
-# Load dataset (ensure you download with Kaggle API first)
-df = pd.read_csv('./data/renewable_energy.csv')  # Adjust filename after download
+# Load dataset 
+df = pd.read_csv('./data/renewable_energy.csv') 
 
 # Explore
 print(df.info())
